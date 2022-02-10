@@ -1,0 +1,2449 @@
+//////
+3
+Close The Gap
+Leg Cond.
+Iron Body
+All
+All
+All
+3
+1800
+2
+1200
+1
+600
+1
+1
+1
+3600
+
+///
+Block Jab Stun Chop Kick Side<br>&nbsp;&nbsp;Kick
+Continuous Stepping Forward<br>&nbsp;&nbsp;Punch Fook
+Divert Side Kick Chain Punch
+Horse Stance
+Static Triple Kick
+Iron Arms
+///
+17
+971
+7
+87
+84
+772
+///
+15
+25
+25
+15
+25
+25
+///
+2022-02-10
+
+//////
+1
+Fitness
+Aerobic
+1
+1800
+1
+1800
+
+///
+Running
+///
+870
+///
+25
+///
+2022-02-07
+
+//////
+2
+Forms
+Energy Drills
+All
+All
+5
+1200
+4
+2400
+1
+1
+3600
+
+///
+1) Siu Lim Tao
+2) Chum Kiu
+3) Biu Jee
+4) Mook Yan Jong
+5) Qi Gong Form
+PD All Kicks
+PD Change Side Side Push
+PD Grab
+PD with Side Stepping
+///
+0
+1
+2
+3
+4
+58
+81
+57
+83
+///
+25
+25
+25
+25
+25
+25
+25
+25
+25
+///
+2022-02-05
+
+//////
+2
+Fitness
+Energy Drills
+Jump Rope
+All
+1
+1800
+3
+1800
+1
+1
+3600
+///
+Jump Rope 2
+Elbow Drill Change Side
+PD Grab Rib Crank
+PD Three Punches
+///
+769
+26
+54
+39
+///
+25
+25
+25
+25
+///
+2022-02-03
+
+//////
+3
+Close The Gap
+Techniques
+Leg Cond.
+All
+All
+Stretching
+3
+1800
+2
+1200
+1
+600
+1
+1
+1
+3600
+
+///
+Stepping Forward Chain Punch
+Stepping Forward Side Kick
+Stepping Chop & Side Kick
+Block Two Hook & Uppercut
+Block Two Punch & Hook Hammer
+Light Static Stretching
+///
+10
+13
+813
+218
+183
+771
+///
+25
+25
+15
+25
+20
+25
+///
+2022-01-30
+
+//////
+2
+Techniques
+Energy Drills
+All
+All
+5
+1800
+5
+1800
+1
+1
+3600
+
+///
+Block Solid Two Punch & Hook
+Block Solid Two Punch & Hook<br>&nbsp;&nbsp;Low
+Block Two Punch & Hook Hammer
+Chain Punch Chop Kick
+Chop Kick Chain Punch
+PD All Kicks
+PD Block Round Kick High
+PD Grab Pull Down Leg Crank
+PD Grab Side Kick High
+PD With Stepping
+///
+217
+216
+183
+164
+165
+58
+59
+77
+66
+47
+///
+25
+25
+20
+25
+25
+25
+25
+25
+25
+25
+///
+2022-01-27
+
+//////
+2
+Forms
+Iron Body
+All
+All
+5
+2400
+1
+1200
+1
+1
+3600
+
+///
+2) Chum Kiu
+3) Biu Jee
+4) Mook Yan Jong
+5) Qi Gong Form
+6) Pole Form
+Iron Legs
+///
+1
+2
+3
+4
+875
+773
+///
+25
+25
+20
+25
+20
+25
+///
+2022-01-25
+
+//////
+2
+Fitness
+Iron Body
+Muscle
+All
+3
+1800
+1
+600
+1
+1
+2400
+
+///
+Biceps
+Sit Up
+Back
+Iron Arms
+///
+1066
+872
+1067
+772
+///
+25
+25
+25
+25
+///
+2022-01-24
+
+//////
+2
+Techniques
+Leg Cond.
+All
+All
+3
+1800
+2
+1200
+1
+1
+3000
+
+///
+Block Round Kick Low & Double<br>&nbsp;&nbsp;Punch Grab Leg
+Block Side Kick & Punch & Hook
+Side Kick Front Kick
+Knee Block Opp on Ground
+Side Stance
+///
+210
+211
+160
+819
+86
+///
+25
+25
+25
+25
+25
+///
+2022-01-20
+
+//////
+2
+Close The Gap
+Energy Drills
+All
+All
+5
+1800
+4
+1800
+1
+1
+3600
+
+///
+Stepping Forward
+Stepping Forward Round Kick
+Stepping Forward Changing Side
+Stepping Chop & Side Kick
+Stun All Kicks
+PD Change Side Grab Pull
+PD Change Side Grab Pull with<br>&nbsp;&nbsp;Step
+PD Three Punches
+PD with Side Stepping
+///
+9
+16
+11
+813
+18
+75
+74
+39
+83
+///
+25
+25
+25
+25
+25
+25
+25
+25
+25
+///
+2022-01-19
+
+//////
+2
+Forms
+Techniques
+All
+All
+1
+1200
+5
+2400
+1
+1
+3600
+
+///
+1) Siu Lim Tao
+Block Kick Low & Punch & Chain<br>&nbsp;&nbsp;Punch
+Block Two Round Kick with Shin
+Chop Kick Chain Punch
+Chop Kick Round Kick High
+Two Punch Round Kick Low
+///
+0
+207
+97
+165
+159
+166
+///
+25
+25
+25
+25
+25
+25
+///
+2022-01-17
+
+//////
+2
+Energy Drills
+Techniques
+All
+All
+4
+1800
+4
+1800
+1
+1
+3600
+
+///
+PD Change Side Grab Pull
+PD Change Side Grab Pull with<br>&nbsp;&nbsp;Step
+PD Grab Pull Down Leg Crank
+PD With Stepping
+Block Two Round Kick with Shin
+Chain Punch Chop Kick
+Chop Kick Round Kick High
+Side Kick Front Kick
+///
+75
+74
+77
+47
+97
+164
+159
+160
+///
+25
+25
+25
+25
+25
+25
+25
+25
+///
+2022-01-08
+
+//////
+2
+Fitness
+Leg Cond.
+All
+All
+3
+1800
+1
+600
+1
+1
+2400
+
+///
+Abs
+Finger Grips
+Forearms
+Half Stance
+///
+1068
+1072
+1071
+88
+///
+20
+25
+25
+25
+///
+2021-12-30
+
+//////
+2
+Techniques
+Leg Cond.
+All
+Strength
+5
+3000
+1
+600
+1
+1
+3600
+
+///
+Block Hook Chop Arm Out Chop<br>&nbsp;&nbsp;Divert FKick
+Block Hook Chop Arm Out Chop<br>&nbsp;&nbsp;Divert RKick
+Block Hook High Chop Arm
+Evade Round Kick Return Round<br>&nbsp;&nbsp;Kick
+Evade Side Kick Return Round<br>&nbsp;&nbsp;Kick
+Combining Stances
+///
+168
+169
+180
+263
+264
+90
+///
+25
+25
+25
+25
+25
+25
+///
+2021-12-27
+
+//////
+3
+Close The Gap
+Leg Cond.
+Iron Body
+All
+All
+All
+3
+1800
+2
+1200
+1
+600
+1
+1
+1
+3600
+
+///
+Block Jab Stun Round Kick
+Block Jab Stun Side Kick
+Stun Side Kick Chain Punch
+Half Stance
+Horse Stance
+Iron Arms
+///
+962
+963
+239
+88
+87
+772
+///
+25
+25
+25
+25
+25
+25
+///
+2021-12-13
+
+//////
+2
+Forms
+Energy Drills
+All
+All
+5
+1200
+4
+2400
+1
+1
+3600
+
+///
+1) Siu Lim Tao
+2) Chum Kiu
+3) Biu Jee
+4) Mook Yan Jong
+5) Qi Gong Form
+PD Grab Both Out Leg Sweep
+PD In Trap In Chop
+PD In Trap Out Chop
+PD Push Divert Round Kick High
+///
+0
+1
+2
+3
+4
+52
+787
+789
+44
+///
+25
+25
+25
+25
+25
+25
+25
+25
+25
+///
+2021-12-10
+
+//////
+2
+Fitness
+Energy Drills
+Jump Rope
+All
+1
+1800
+3
+1800
+1
+1
+3600
+///
+Jump Rope 3
+ED Grab Pull Knee
+PD Grab Both In Leg Sweep<br>&nbsp;&nbsp;Side Kick
+PD Grab Both Out Leg Sweep
+///
+770
+36
+50
+52
+///
+25
+25
+25
+25
+///
+2021-12-08
+
+//////
+3
+Close The Gap
+Techniques
+Leg Cond.
+All
+All
+Stretching
+3
+1800
+2
+1200
+1
+900
+1
+1
+1
+3900
+///
+Divert Side Kick Round Kick
+Stepping with Fake Hands &<br>&nbsp;&nbsp;Stuns
+Stun Round Kick High Chain<br>&nbsp;&nbsp;Punch
+Block Hook High Chop Arm<br>&nbsp;&nbsp;Double Chop
+Block Two Punch Grab Pull Knee
+Static Stretching
+///
+927
+1048
+21
+178
+259
+418
+///
+25
+25
+25
+25
+25
+25
+///
+2021-12-06
+
+//////
+2
+Techniques
+Energy Drills
+All
+All
+3
+1800
+3
+1800
+1
+1
+3600
+
+///
+Block Hook Chop Arm Out Chop<br>&nbsp;&nbsp;Divert FKick
+Block Hook Chop Arm Out Chop<br>&nbsp;&nbsp;Divert RKick
+Block Jab & Atk Block Hook L<br>&nbsp;&nbsp;& H
+ED Grab Pull Knee Change Leg<br>&nbsp;&nbsp;Chop Kick
+ED Grab Pull Knee Out Leg<br>&nbsp;&nbsp;Sweep
+PD Grab Both In Leg Sweep
+///
+168
+169
+258
+33
+34
+51
+///
+25
+25
+25
+25
+25
+25
+///
+2021-12-05
+
+//////
+1
+Fitness
+Jump Rope
+1
+1800
+1
+1800
+///
+Jump Rope 1
+///
+768
+///
+25
+///
+2021-11-24
+
+//////
+2
+Forms
+Iron Body
+All
+All
+5
+2400
+2
+1200
+1
+1
+3600
+///
+1) Siu Lim Tao
+2) Chum Kiu
+3) Biu Jee
+4) Mook Yan Jong
+6) Pole Form
+Iron Arms
+Iron Shirt
+///
+0
+1
+2
+3
+875
+772
+774
+///
+25
+25
+25
+25
+25
+25
+25
+///
+2021-11-23
+
+//////
+2
+Fitness
+Iron Body
+All
+All
+4
+1800
+1
+600
+1
+1
+2400
+///
+Abs
+Jump Rope: Single Under
+Push Up
+Back
+Iron Arms
+///
+1068
+874
+871
+1067
+772
+///
+25
+25
+25
+25
+0
+///
+2021-11-20
+
+//////
+2
+Techniques
+Leg Cond.
+All
+All
+3
+1800
+2
+1200
+1
+1
+3000
+
+///
+Block Jab & Atk
+Block Two Punch Punch L Elbow<br>&nbsp;&nbsp;Arm
+Block Two Punch Punch Low
+Siu Lim Tao
+Static Triple Kick
+///
+257
+261
+262
+85
+84
+///
+25
+25
+25
+25
+25
+///
+2021-11-19
+
+//////
+2
+Close The Gap
+Energy Drills
+All
+All
+3
+1800
+3
+1800
+1
+1
+3600
+
+///
+Block Jab Stun Chop Kick<br>&nbsp;&nbsp;Chain Punch
+Stun Chop Kick Side Kick Low<br>&nbsp;&nbsp;& High
+Stun Side Kick Chain Punch
+ED Grab Pull Knee Change Leg<br>&nbsp;&nbsp;Chop Kick
+ED Grab Pull Knee Two Elbows<br>&nbsp;&nbsp;Arm
+PD Grab Both Out Leg Sweep
+///
+19
+988
+239
+33
+35
+52
+///
+20
+25
+25
+20
+20
+25
+///
+2021-11-18
+
+//////
+2
+Forms
+Techniques
+All
+All
+1
+1200
+4
+2400
+1
+1
+3600
+
+///
+2) Chum Kiu
+Block Jab & Atk Block Hook L
+Block Jab & Atk Block Hook L<br>&nbsp;&nbsp;Divert Push
+Block Two Punch Grab Pull Knee
+Block Two Punch Punch L Elbow<br>&nbsp;&nbsp;Arm Hammer
+///
+1
+256
+255
+259
+260
+///
+25
+25
+25
+25
+25
+///
+2021-11-16
+
+//////
+2
+Fitness
+Leg Cond.
+All
+All
+3
+1800
+1
+600
+1
+1
+2400
+
+///
+Jump Rope: Single Under
+Finger Grips
+Forearms
+Combining Stances
+///
+874
+1072
+1071
+90
+///
+25
+25
+25
+25
+///
+2021-11-14
+
+//////
+2
+Techniques
+Leg Cond.
+All
+Strength
+5
+2400
+1
+1200
+1
+1
+3600
+///
+Block Jab & Atk
+Block Jab & Atk Block Hook H
+Block Jab & Atk Block Hook L
+Block Jab & Atk Block Hook L<br>&nbsp;&nbsp;& H
+Block Jab & Atk Block Hook L<br>&nbsp;&nbsp;Divert Go Behind
+Qi Gong Form
+///
+257
+253
+256
+258
+254
+415
+///
+25
+25
+25
+25
+25
+25
+///
+2021-11-11
+
+//////
+3
+Close The Gap
+Leg Cond.
+Iron Body
+All
+All
+All
+3
+1800
+2
+1200
+1
+600
+1
+1
+1
+3600
+
+///
+Block Jab Stun Chop Kick Side<br>&nbsp;&nbsp;Kick Round Kick
+Divert Side Kick Round Kick
+Stun Side Kick Round Kick Low
+Half Stance
+Horse Stance
+Iron Legs
+///
+24
+927
+987
+88
+87
+773
+///
+25
+25
+25
+25
+25
+25
+///
+2021-11-10
+
+//////
+1
+Fitness
+All
+1
+1800
+1
+1800
+///
+Running
+///
+870
+///
+25
+///
+2021-11-07
+
+//////
+2
+Forms
+Energy Drills
+All
+All
+1
+1200
+4
+2400
+1
+1
+3600
+///
+4) Mook Yan Jong
+ED Grab Pull Knee Two Elbows<br>&nbsp;&nbsp;Arm
+PD Grab Both Chop Front Side<br>&nbsp;&nbsp;Kick
+PD In Trap Elbow Chest
+PD Side Push Block Side Kick
+///
+3
+35
+69
+784
+46
+///
+25
+25
+25
+25
+25
+///
+2021-10-31
+
+//////
+2
+Fitness
+Energy Drills
+Jump Rope
+All
+1
+1800
+3
+1800
+1
+1
+3600
+///
+Jump Rope 2
+ED Grab Pull Elbow Arm
+PD Divert Front Kick High
+PD Grab Both Chop Front Side<br>&nbsp;&nbsp;Kick
+///
+769
+32
+40
+69
+///
+25
+25
+25
+25
+///
+2021-10-30
+
+//////
+2
+Fitness
+Iron Body
+All
+All
+3
+1800
+1
+600
+1
+1
+2400
+///
+Biceps
+Finger Grips
+Forearms
+Iron Shirt
+///
+1066
+1072
+1071
+774
+///
+25
+25
+25
+25
+///
+2021-10-27
+
+//////
+3
+Close The Gap
+Techniques
+Leg Cond.
+All
+All
+All
+3
+1800
+2
+1200
+1
+900
+1
+1
+1
+3900
+
+///
+Divert Round Kick Chop Kick
+Stun Chop Kick Side Kick Low<br>&nbsp;&nbsp;& High
+Stun Side Kick Round Kick Low
+Block Jab & Atk Block Hook H<br>&nbsp;&nbsp;Twist
+Block Jab & Atk Block Hook L<br>&nbsp;&nbsp;Divert Push
+High Kick Leg Strength
+///
+926
+988
+987
+252
+255
+417
+///
+25
+25
+25
+25
+25
+25
+///
+2021-10-26
+
+//////
+1
+Fitness
+All
+1
+1800
+1
+1800
+///
+Running
+///
+870
+///
+25
+///
+2021-10-24
+
+//////
+2
+Techniques
+Energy Drills
+All
+All
+3
+1800
+3
+1800
+1
+1
+3600
+
+///
+Block Jab & Atk Block Hook H
+Block Jab & Atk Block Hook H<br>&nbsp;&nbsp;Twist
+Block Jab & Atk Block Hook L<br>&nbsp;&nbsp;Divert Go Behind
+ED Grab Pull Elbow Arm
+PD In Trap Elbow Chest
+PD In Trap In Chop Out Chop<br>&nbsp;&nbsp;Head Lock
+///
+253
+252
+254
+32
+784
+786
+///
+25
+25
+25
+20
+20
+25
+///
+2021-10-23
+
+//////
+1
+Fitness
+HIT
+1
+1800
+1
+1800
+///
+HIT: JR Squat Climbers Star<br>&nbsp;&nbsp;Crunch Plank Rotation & Knee<br>&nbsp;&nbsp;Burpee Bench Jump Sit up
+///
+767
+///
+20
+///
+2021-10-20
+
+//////
+2
+Techniques
+Leg Cond.
+All
+All
+3
+1800
+2
+1200
+1
+1
+3000
+
+///
+Block Kick Low & Hook & Chain<br>&nbsp;&nbsp;Punch
+Block Kick Low & Hook &<br>&nbsp;&nbsp;Uppercut & Chain Punch
+Cover Hook Hammer
+Tree Stance
+Walk on Poles
+///
+205
+206
+188
+1069
+818
+///
+25
+25
+25
+15
+25
+///
+2021-10-19
+
+//////
+2
+Close The Gap
+Energy Drills
+All
+All
+3
+1800
+3
+1800
+1
+1
+3600
+
+///
+Stepping Behind Opponent
+Stepping Forward Front Kick
+Stepping Forward Punch
+PD Block Round Kick Low
+PD Grab Pull Chop
+Rolling Wrist
+///
+8
+15
+12
+60
+76
+775
+///
+25
+25
+25
+25
+25
+25
+///
+2021-10-18
+
+//////
+2
+Forms
+Techniques
+All
+All
+1
+1200
+4
+2400
+1
+1
+3600
+///
+1) Siu Lim Tao
+Combat Drill Side Kick
+Cover Hook Hammer
+Grab Round Kick Elbow to Knee
+Block Round Kick Low with In Shin
+///
+0
+155
+188
+116
+204
+///
+25
+25
+25
+25
+25
+///
+2021-10-16
+
+//////
+2
+Fitness
+Leg Cond.
+All
+All
+3
+1800
+1
+600
+1
+1
+2400
+///
+Burpees
+HIT: JR Push up Sumo Squat<br>&nbsp;&nbsp;Star Squat Plank to Push up<br>&nbsp;&nbsp;Side Plank Bench Jump Sit up
+Biceps
+Tree Stance
+///
+1070
+766
+1066
+1069
+///
+25
+20
+0
+15
+///
+2021-10-13
+
+//////
+2
+Techniques
+Leg Cond.
+All
+Stretching
+5
+1800
+1
+1200
+1
+1
+3000
+///
+Block Punch Round Kick
+Combat Drill Side Kick
+Grab Round Kick Elbow to Knee
+Gum Da
+Lap Da with Shifting
+Static Stretching
+///
+173
+155
+116
+807
+808
+418
+///
+25
+25
+25
+25
+25
+25
+///
+2021-10-12
+
+//////
+1
+Fitness
+All
+1
+1800
+1
+1800
+///
+Jump Rope: Single Under
+///
+874
+///
+25
+///
+2021-10-08
+
+//////
+1
+Fitness
+All
+3
+1800
+1
+1800
+///
+Jump Rope: Single Under
+Burpees
+Sumo Squat
+///
+874
+1070
+873
+///
+25
+25
+25
+///
+2021-10-06
+
+//////
+1
+Fitness
+All
+1
+1800
+1
+1800
+///
+Running
+///
+870
+///
+25
+///
+2021-10-05
+
+//////
+3
+Close The Gap
+Leg Cond.
+Iron Body
+All
+All
+All
+3
+1800
+2
+1200
+1
+600
+1
+1
+1
+3600
+///
+Stepping Forward Chop Kick
+Stepping Forward Punch
+Stepping Forward Side Kick
+Balance on Wheel & Kick
+Tree Stance
+Iron Arms
+///
+14
+12
+13
+816
+1069
+772
+///
+25
+25
+25
+25
+10
+25
+///
+2021-10-04
+
+//////
+2
+Forms
+Energy Drills
+All
+All
+5
+1200
+5
+2400
+1
+1
+3600
+///
+1) Siu Lim Tao
+2) Chum Kiu
+3) Biu Jee
+4) Mook Yan Jong
+5) Qi Gong Form
+PD Grab Front Kick
+PD Grab Palm High
+PD Grab Palm Low
+Rolling Wrist
+Single Hand Chi Sao
+///
+0
+1
+2
+3
+4
+63
+70
+71
+775
+776
+///
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+///
+2021-10-03
+
+//////
+1
+Fitness
+All
+2
+1800
+1
+1800
+///
+Jump Rope: Single Under
+Sumo Squat
+///
+874
+873
+///
+25
+25
+///
+2021-09-22
+
+//////
+2
+Energy Drills
+Forms
+All
+All
+5
+3000
+1
+600
+1
+1
+3600
+///
+Chi Sao Four Gates
+PD Grab Chop Kick High
+PD Grab Front Kick
+PD Grab Round Kick High
+Single Hand Chi Sao
+3) Biu Jee
+///
+366
+61
+63
+64
+776
+2
+///
+25
+25
+25
+25
+25
+25
+///
+2021-09-20
+
+//////
+2
+Techniques
+Forms
+All
+All
+5
+2400
+1
+600
+1
+1
+3000
+///
+Combat Drill
+Shift Tan
+Static Chop Kick
+Static Side Kick
+Tan Da with Stepping
+2) Chum Kiu
+///
+158
+131
+820
+821
+812
+1
+///
+25
+25
+25
+25
+25
+25
+///
+2021-09-17
+
+//////
+3
+Techniques
+Forms
+Fitness
+All
+All
+All
+5
+1500
+1
+600
+3
+600
+1
+1
+1
+2700
+///
+Gum Da
+Lap Da with Shifting
+Pak Da
+Pak Da with Stepping
+Tan Da
+1) Siu Lim Tao
+Abs
+Push Up
+Back
+///
+807
+808
+809
+810
+811
+0
+1068
+871
+1067
+///
+15
+15
+15
+15
+15
+25
+25
+25
+25
+///
+2021-09-16
+
+//////
+2
+Forms
+Energy Drills
+All
+All
+1
+1200
+4
+2400
+1
+1
+3600
+///
+6) Pole Form
+PD Both Grabbed Cross Release<br>&nbsp;&nbsp;Palm High
+PD Both Grabbed Cross Release<br>&nbsp;&nbsp;Push
+PD Fook Gum Take Down
+PD In Trap Change Hands
+///
+875
+48
+49
+814
+781
+///
+25
+25
+25
+25
+25
+///
+2021-06-25
+
+//////
+2
+Fitness
+Energy Drills
+All
+All
+1
+2100
+3
+1800
+1
+1
+3900
+///
+HIT: JR Mountain Climber<br>&nbsp;&nbsp;Jump Lunges Planks Push &<br>&nbsp;&nbsp;Sit up & Star Squat & Burpees
+PD Both Grabbed Cross Release<br>&nbsp;&nbsp;Palm High
+PD Fook Gum Take Down
+PD Side Push Block Round Kick<br>&nbsp;&nbsp;High
+///
+765
+48
+814
+68
+///
+25
+25
+25
+25
+///
+2021-06-23
+
+//////
+2
+Close The Gap
+Leg Cond.
+All
+All
+2
+1200
+2
+1200
+1
+1
+2400
+///
+Stepping Chop & Side Kick
+Stepping Forward Chain Punch
+Single Leg Balance on Pole
+Tree Stance
+///
+813
+10
+817
+1069
+///
+20
+20
+15
+25
+///
+2021-06-21
+
+//////
+2
+Fitness
+Forms
+All
+All
+4
+1800
+5
+1800
+1
+1
+3600
+///
+Abs
+Push Up
+Sumo Squat
+Back
+1) Siu Lim Tao
+2) Chum Kiu
+3) Biu Jee
+4) Mook Yan Jong
+5) Qi Gong Form
+///
+1068
+871
+873
+1067
+0
+1
+2
+3
+4
+///
+25
+25
+25
+25
+25
+25
+25
+25
+25
+///
+2021-06-11
+
+//////
+3
+Close The Gap
+Techniques
+Leg Cond.
+All
+All
+All
+3
+1800
+2
+1200
+1
+900
+1
+1
+1
+3900
+///
+Continuous Stepping Forward<br>&nbsp;&nbsp;Chain Punch
+Stun Side Kick Round Kick Low<br>&nbsp;&nbsp;& Back
+Stun Side Kick Round Kick Low<br>&nbsp;&nbsp;& Face
+Block Jab & Atk Block Hook H<br>&nbsp;&nbsp;Divert Pull
+Combat Drill In Trap 2x Punch
+Static Stretching
+///
+970
+985
+986
+251
+152
+418
+///
+25
+25
+25
+25
+25
+25
+///
+2021-05-25
+
+//////
+2
+Techniques
+Energy Drills
+All
+All
+3
+1800
+3
+1800
+1
+1
+3600
+///
+Block Jab & Atk Block Hook H<br>&nbsp;&nbsp;Divert Go Behind
+Combat Drill In Trap 2x Punch
+Stun SKick Chain Punch Block<br>&nbsp;&nbsp;Hook L
+PD Fook Gum Take Down
+PD In Trap Pull Neck Elbow
+PD Out Trap Punch
+///
+250
+152
+246
+814
+815
+800
+///
+25
+15
+25
+20
+25
+25
+///
+2021-05-24
+
+//////
+1
+Fitness
+All
+2
+1200
+1
+1200
+///
+Abs
+Back
+///
+1068
+1067
+///
+25
+25
+///
+2021-05-19
+
+//////
+2
+Fitness
+Iron Body
+All
+All
+1
+1800
+1
+600
+1
+1
+2400
+///
+Jump Rope 1
+Iron Shirt
+///
+768
+774
+///
+25
+25
+///
+2021-05-18
+
+//////
+2
+Techniques
+Leg Cond.
+All
+All
+3
+1800
+2
+1200
+1
+1
+3000
+///
+Combat Drill Fook Elbow Chest
+Stun Chop Kick Side Kick Low
+Stun Round Kick Low Chain<br>&nbsp;&nbsp;Punch
+Combining Stances
+Half Stance
+///
+149
+235
+236
+90
+88
+///
+25
+25
+25
+25
+25
+///
+2021-05-17
+
+//////
+1
+Techniques
+All
+4
+2400
+1
+2400
+///
+Combat Drill Block Round Kick<br>&nbsp;&nbsp;Low Side Kick
+Combat Drill Elbow Block Side<br>&nbsp;&nbsp;Kick
+Combat Drill Out Trap In Chop<br>&nbsp;&nbsp;Elbow
+Combat Drill Side Kick Sweep<br>&nbsp;&nbsp;Leg Side Kick
+///
+143
+148
+153
+154
+///
+25
+25
+20
+25
+///
+2021-05-14
+
+//////
+1
+Fitness
+Aerobic
+1
+1800
+1
+1800
+///
+Running
+///
+870
+///
+25
+///
+2021-05-12
+
+//////
+2
+Close The Gap
+Energy Drills
+All
+All
+3
+1800
+3
+1800
+1
+1
+3600
+///
+Step Forward In Defensive Knee
+Stepping Forward Round Kick
+Stun All Kicks
+PD Block Side Kick High
+PD Elbow Chest
+PD In Chop
+///
+302
+16
+18
+38
+41
+43
+///
+25
+25
+25
+25
+25
+25
+///
+2021-05-11
+
+//////
+2
+Forms
+Techniques
+All
+All
+1
+1200
+4
+2400
+1
+1
+3600
+///
+3) Biu Jee
+Block Two Punch & Hook &<br>&nbsp;&nbsp;Uppercut Chain Punch
+Chain Punch Side Kick on Thigh
+Elbow Block Round Kick
+Elbow Block Side Kick
+///
+2
+182
+824
+105
+106
+///
+25
+25
+25
+25
+25
+///
+2021-05-10
+
+//////
+2
+Techniques
+Leg Cond.
+All
+All
+3
+1800
+1
+1200
+1
+1
+3000
+///
+Block Side Kick with Shin
+Combat Drill Tan Da
+Round Kick In Defensive Knee
+Static Stretching
+///
+96
+156
+526
+418
+///
+25
+25
+25
+25
+///
+2021-05-05
+
+//////
+3
+Close The Gap
+Leg Cond.
+Iron Body
+All
+All
+All
+3
+1800
+2
+1200
+1
+600
+1
+1
+1
+3600
+///
+Continuous Stepping Forward<br>&nbsp;&nbsp;Chain Punch
+Continuous Stepping Forward<br>&nbsp;&nbsp;Punch Fook
+Divert Side Kick Punch Cross<br>&nbsp;&nbsp;Slap Push
+Horse Stance
+Static Triple Kick
+Iron Legs
+///
+970
+971
+961
+87
+84
+773
+///
+25
+25
+25
+25
+25
+25
+///
+2021-04-29
+
+//////
+2
+Forms
+Energy Drills
+All
+All
+2
+1200
+4
+2400
+1
+1
+3600
+///
+2) Chum Kiu
+4) Mook Yan Jong
+PD Out Trap Chain Palm
+PD Out Trap Push
+PD Out Trap Push Block Round<br>&nbsp;&nbsp;Kick Low
+PD Out Trap Side Push
+///
+1
+3
+798
+802
+801
+803
+///
+25
+20
+25
+25
+25
+25
+///
+2021-04-27
+
+//////
+2
+Fitness
+Energy Drills
+All
+All
+3
+1800
+3
+1800
+1
+1
+3600
+///
+Jump Rope: Single Under
+Back
+Biceps
+PD Out Trap Angle Punch
+PD Out Trap Punch
+PD Out Trap Push Block Round<br>&nbsp;&nbsp;Kick Low
+///
+874
+1067
+1066
+797
+800
+801
+///
+25
+25
+25
+25
+25
+20
+///
+2021-04-26
+
+//////
+3
+Close The Gap
+Techniques
+Leg Cond.
+All
+All
+All
+3
+1500
+3
+1500
+1
+1200
+1
+1
+1
+4200
+///
+Block Jab Stun Round Kick
+Block Jab Stun Side Kick
+Divert Round Kick Round Kick
+Block Two Punch Chain Punch
+Combat Drill Fook Elbow Chest
+Combat Drill In Trap 2x Punch
+Static Stretching
+///
+962
+963
+928
+1012
+149
+152
+418
+///
+25
+25
+25
+25
+25
+25
+25
+///
+2021-04-24
+
+//////
+2
+Techniques
+Energy Drills
+All
+All
+3
+1800
+3
+1800
+1
+1
+3600
+///
+Combat Drill Block Round Kick<br>&nbsp;&nbsp;Low Side Kick
+Combat Drill Elbow Block Side<br>&nbsp;&nbsp;Kick
+Stun Side Kick Side Kick
+PD Change Side Out Trap
+PD Out Trap Chain Palm
+PD Out Trap Out Chop
+///
+143
+148
+241
+796
+798
+799
+///
+25
+25
+25
+25
+25
+25
+///
+2021-04-22
+
+//////
+2
+Forms
+Iron Body
+All
+All
+5
+2400
+1
+900
+1
+1
+3300
+///
+1) Siu Lim Tao
+2) Chum Kiu
+3) Biu Jee
+4) Mook Yan Jong
+5) Qi Gong Form
+Iron Arms
+///
+0
+1
+2
+3
+4
+772
+///
+25
+25
+25
+25
+25
+25
+///
+2021-04-21
+
+//////
+2
+Fitness
+Iron Body
+All
+All
+1
+1800
+1
+1200
+1
+1
+3000
+///
+HIT: JR Squat Climbers Star<br>&nbsp;&nbsp;Crunch Plank Rotation & Knee<br>&nbsp;&nbsp;Burpee Bench Jump Sit up
+Iron Shirt
+///
+767
+774
+///
+25
+25
+///
+2021-04-04
+
